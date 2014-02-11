@@ -1,0 +1,16 @@
+{
+    "name": "metalmatze/laravel-uml",
+    "description": "UML diagrams for laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MetalMatze",
+            "email": "me@metalmatze.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "clue/graph-uml": "dev-master",
+        "laravel/framework": "4.1.*"
+    }
+}
